@@ -1,5 +1,9 @@
-Prerequisites for Creating Packages
-===================================
+================
+Before you begin
+================
+
+Setting up your computer
+========================
 
 In order to complete the following tutorial, you must have pip, setuptools
 and wheel installed. The section below describes the steps for installation.
@@ -26,7 +30,7 @@ wheel in your system.
 
 
 pip
-----
+---
 
 To verify if pip is installed in your system, enter
 the following into your command prompt.
